@@ -15,7 +15,7 @@
 
   <properties>
     <!--spring版本控制-->
-    <spring.version>4.3.8.RELEASE</spring.version>
+    <spring.version>5.2.20.RELEASE</spring.version>
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
